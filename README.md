@@ -7,5 +7,5 @@
 - 💬 Adoraria colaborar com quem deseje compartilhar novos conhecimentos comigo :)
 - 📫 Meu e-mail: joaomms1208@gmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fato aleatório: Meu sonho é viajar pela África algum dia :D
+
 
