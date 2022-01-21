@@ -1,6 +1,6 @@
 ### Olá, bem vindo (a) ao meu laboratório ! 👋
 
-- 🔭 Meu nome é João
+- 🔭 Sou natural de João Pessoa, na Paraíba
 - 🌱 Atualmente, estou no primeiro mês do curso de Desenvolvimento Web da Trybe
 - 👯 Sou apaixonado por desafios e principalmente por aprender novas coisas!
 - 🤔 No momento, estou estudando Javascript, HTML, CSS, Git e Github
