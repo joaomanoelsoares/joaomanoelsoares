@@ -6,8 +6,6 @@
 - 🤔 No momento, estou estudando Javascript, HTML, CSS, Git e Github
 - 💬 Adoraria colaborar com quem deseje compartilhar novos conhecimentos comigo :)
 - 📫 Meu e-mail: joaomms1208@gmail.com
-- 😄 Pronomes: Ele/Dele
-
 
 <div>
   <a href=https://github.com/joaomanoelsoares>  
