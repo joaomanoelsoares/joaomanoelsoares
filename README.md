@@ -8,4 +8,5 @@
 - 📫 Meu e-mail: joaomms1208@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-
+![Minhas estatísticas!](https://github-readme-stats.vercel.app/api?username=joaomanoelsoares&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelsoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
