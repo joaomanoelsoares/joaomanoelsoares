@@ -28,6 +28,7 @@
     <li><a href="https://github.com/joaomanoelsoares/portilofio">Portifólio</a></li>
     <li><a href="https://github.com/joaomanoelsoares/task-list">Lista de Tarefas</a></li>
     <li><a href="https://github.com/joaomanoelsoares/AirBNB-Clone">AirBNB Clone</a></li>
+    <li><a href="https://github.com/joaomanoelsoares/Starbucks-Clone">Starbucks Clone</a></li>
   </ul>
   
   
