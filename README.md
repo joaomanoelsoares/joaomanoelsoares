@@ -3,7 +3,7 @@
 - 🔭 Sou natural de João Pessoa, na Paraíba
 - 🌱 Atualmente, estou no primeiro mês do curso de Desenvolvimento Web da Trybe
 - 👯 Sou apaixonado por desafios e principalmente por aprender novas coisas!
-- 🤔 No momento, estou estudando Javascript, HTML, CSS!
+- 🤔 Já dominei os conceitos avançados de Javascript (incluindo o Jest, para realizar testes unitários), HTML, CSS! E atualmente, estou aprendendo React e Redux
 - 📫 Meu e-mail: joaomms1208@gmail.com
 
 <div>
