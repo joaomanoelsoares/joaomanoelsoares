@@ -30,6 +30,7 @@
     <li><a href="https://github.com/joaomanoelsoares/AirBNB-Clone">AirBNB Clone</a></li>
     <li><a href="https://github.com/joaomanoelsoares/Starbucks-Clone">Starbucks Clone</a></li>
     <li><a href="https://github.com/joaomanoelsoares/Pokedex">Pokedex (React)</a></li>
+    <li><a href="https://github.com/joaomanoelsoares/movies-db-react">Movies Database (React)</a></li>
   </ul>
   
   
