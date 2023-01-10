@@ -8,8 +8,7 @@
 
 <div>
   <a href=https://github.com/joaomanoelsoares>   
-  <!--- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsoares"/> --->
-  <img height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaomanoelsoares&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsoares"/>
 </div>
   
   <h1>Índice</h1>
