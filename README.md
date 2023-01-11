@@ -38,7 +38,7 @@
   <h1>Pacotes e Electron</h1>
   <ul>
     <li><a href="https://github.com/joaomanoelsoares/pass-worth">Pass-worth</a></li>
-    <li><a href="https://github.com/joaomanoelsoares/electron-login-screen">Pass-worth</a></li>
+    <li><a href="https://github.com/joaomanoelsoares/electron-login-screen">Electron Login Screen</a></li>
   </ul>
   
   
