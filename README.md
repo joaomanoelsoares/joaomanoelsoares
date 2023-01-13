@@ -27,7 +27,7 @@
     <h1>HTML, CSS, JavaScript, React e lágrimas</h1>
     <li><a href="https://github.com/joaomanoelsoares/portilofio">Portifólio</a></li>
     <li><a href="https://github.com/joaomanoelsoares/task-list">Lista de Tarefas</a></li>
-    <li><a href="https://github.com/joaomanoelsoares/AirBNB-Clone">AirBNB Clone</a></li>
+    <li><a href="https://github.com/joaomanoelsoares/AirBNB-Clone">AirBN Clone</a></li>
     <li><a href="https://github.com/joaomanoelsoares/Starbucks-Clone">Starbucks Clone</a></li>
     <li><a href="https://github.com/joaomanoelsoares/Pokedex">Pokedex (React)</a></li>
     <li><a href="https://github.com/joaomanoelsoares/movies-db-react">Movies Database (React)</a></li>
