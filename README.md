@@ -1,9 +1,9 @@
 ### Olá, bem vindo (a) ao meu laboratório ! 👋
 
 - 🔭 Sou natural de João Pessoa, na Paraíba
-- 🌱 Atualmente, estou no primeiro mês do curso de Desenvolvimento Web da Trybe
+- 🌱 Desenvolvedor Web Fullstack
 - 👯 Sou apaixonado por desafios e principalmente por aprender novas coisas!
-- 🤔 Já dominei os conceitos avançados de Javascript (incluindo o Jest, para realizar testes unitários), HTML, CSS! E atualmente, estou aprendendo React e Redux
+- 🤔 Especialista em Redux, ReactJS, React Native, Vue, NodeJS, SCSS, MongoDB
 - 📫 Meu e-mail: joaomms1208@gmail.com
 
 <div>
