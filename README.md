@@ -3,7 +3,7 @@
 - 🔭 Sou natural de João Pessoa, na Paraíba
 - 🌱 Desenvolvedor Web Fullstack
 - 👯 Sou apaixonado por desafios e principalmente por aprender novas coisas!
-- 🤔 Especialista em Redux, ReactJS, React Native, Vue, NodeJS, SCSS, MongoDB
+- 🤔 Especialista em React, React Native, Vue, NodeJS, SASS, MongoDB, HTML5, Bootstrap, Tailwind, NextJS, ExpressJS
 - 📫 Meu e-mail: joaomms1208@gmail.com
 
 <div>
